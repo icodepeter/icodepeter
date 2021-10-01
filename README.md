@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @icodepeter
+- 👀 I’m interested in hacking
+- 🌱 I’m currently learning Java and C#
+- 💞️ I’m looking to collaborate on PoJavLauncher and JavaDeobfuscator
